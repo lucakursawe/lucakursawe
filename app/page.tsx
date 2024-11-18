@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        lucakursawe
+        Luca Kursawe
       </h1>
       <p className="mb-4">
         {`Currently studying computer science at Rheinische Hochschule Köln in Cologne, Germany.`}
