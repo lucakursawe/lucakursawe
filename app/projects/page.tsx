@@ -2,6 +2,7 @@ import React from 'react';
 
 const projects = [
     { id: 1, name: 'REP.js', description: 'A web application for gym enthusiasts to calculate and track their Estimated One-Rep Max (E1RM). Designed for auto-regulating and optimizing training, it features profile management and interactive data visualization.' },
+    { id: 2, name: 'In the works ...', description: 'Stay tuned!' }
 ];
 
 const ProjectsPage: React.FC = () => {
