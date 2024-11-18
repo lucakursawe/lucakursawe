@@ -10,7 +10,6 @@ export default function Page() {
         {`Currently studying computer science at Rheinische Hochschule Köln in Cologne, Germany.`}
       </p>
       <div className="my-8">
-        <BlogPosts />
       </div>
     </section>
   )
