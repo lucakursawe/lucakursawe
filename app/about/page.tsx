@@ -52,7 +52,7 @@ const sections = [
   },
 ];
 
-export function ResumePage() {
+export default function ResumePage() {
   return (
     <div>
       <h1 className="font-semibold text-2xl mb-8 tracking-tighter">
@@ -77,4 +77,3 @@ export function ResumePage() {
   );
 }
 
-export default ResumePage;
