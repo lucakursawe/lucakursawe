@@ -16,7 +16,7 @@ const projects = [
   },
 ];
 
-export function ProjectsPage() {
+export default function ProjectsPage() {
   return (
     <div>
       <h1 className="font-semibold text-2xl mb-8 tracking-tighter">
@@ -44,4 +44,3 @@ export function ProjectsPage() {
   );
 }
 
-export default ProjectsPage;
