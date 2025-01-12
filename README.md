@@ -8,6 +8,6 @@
 - i'm a 4th semester computer science student from cologne, germany.
 - i like creative stuff like photography, videography and music.
 
-- working on: finishing this degree
+- working on: finishing this degree and creating a better portfolio website
 - currently getting better at: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS Badge"/>
 
