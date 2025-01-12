@@ -1,9 +1,6 @@
 ## Hi there 👋 I'm Luca 
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl2ZzAyZWYyNzJrbHE2OXN0bHg2ampoNHE1dzRlNDFvaDAxcWd6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heBQSjt2IoA8/giphy.gif" width="600" height="300" />
-</p>
-<p align="center">
   <a href="https://www.linkedin.com/in/lucakursawe"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"></a>
   <a href="https://www.unsplash.com/lucakursawe"><img src="https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white" alt="Unsplash Badge"></a>
 </p>
@@ -14,9 +11,9 @@
 
 I'm a 4th semester computer science student from Cologne, Germany. I like creative stuff like photography, videography and music.
 
-- 🔭 Working on: Finishing this degree
-- 🌱 Currently getting better at: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS Badge"/>
-- 📫 Reach me on <a href="https://www.linkedin.com/in/lucakursawe"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"></a>
+- Working on: Finishing this degree
+- Currently getting better at: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS Badge"/>
+- Reach me on <a href="https://www.linkedin.com/in/lucakursawe"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"></a>
 
 ---
 
